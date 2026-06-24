@@ -48,7 +48,7 @@ This project analyzes the Museum of Modern Art (MoMA) artwork collection using S
 * Medium Analysis
 * Acquisition Trend Analysis
 * Nationality Analysis
-* Interactive Filters and Slicers
+* Interactive Filters 
 
 ## Key Insights
 
