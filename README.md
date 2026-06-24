@@ -76,5 +76,5 @@ This project analyzes the Museum of Modern Art (MoMA) artwork collection using S
 
 ## Author
 
-Manikandan S
-Data Analyst
+* Manikandan S
+* Data Analyst
